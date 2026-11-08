@@ -1,0 +1,4 @@
+D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual>conda create -p venv python==3.10
+D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual>conda activate D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual\venv
+(D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual\venv) D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual>pip install -r requirements.txt
+(D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual\venv) D:\KrishNaik_IndustryProjects\Personal_AI_Voice_Assistant_System_Multilingual>python main.py
